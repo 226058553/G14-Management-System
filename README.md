@@ -1,4 +1,5 @@
 # G14 Hospital Management System
+G14 is a hypothetical health care facility based in Vanderbjilpark.This was conceptualized for our group project; in which it was our duty to transform g14's flat file model into a better one. Which is a relational model displayed via erds and implemented using sql.
 
 This repository contains the project documentation, presentation materials, cover image, and SQL scripts for the G14 Hospital Management System.
 
